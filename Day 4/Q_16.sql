@@ -1,0 +1,1 @@
+DELETE FROM Movie WHERE Mv_no = 'M01';
